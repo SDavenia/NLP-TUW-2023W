@@ -45,3 +45,4 @@ Basic/.DS_Store
 # Large files #
 ###############
 *.jsonl
+imdb_dataset.csv 
